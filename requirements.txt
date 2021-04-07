@@ -1,4 +1,4 @@
-bottle==0.12.18
+bottle==0.12.19
 googletrans==2.4.0
 requests==2.22.0
 
